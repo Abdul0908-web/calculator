@@ -11,8 +11,13 @@ A desktop calculator app built with Python and PyQt5, styled with a sleek dark t
 - Dynamic font scaling based on number length
 - Responsive hover effects
 
-## Screenshot
-<!-- Add a screenshot here -->
+## 🎥 Demo (YouTube Short)
+
+[![Watch the Demo](https://img.youtube.com/vi/hmYkXruB82Y/0.jpg)](https://www.youtube.com/watch?v=hmYkXruB82Y)
+
+Click the image above to watch the demo video.
+
+---
 
 ## Requirements
 - Python 3.x
