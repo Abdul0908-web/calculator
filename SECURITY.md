@@ -10,7 +10,7 @@
 ## Reporting a Vulnerability
 
 If you discover a security vulnerability, please do **not** open a public issue.
-Instead, report it privately by emailing: **[your-email@example.com]**
+Instead, report it privately by emailing: **[abdulhadi09080700@gmail.com]**
 
 Please include:
 - A clear description of the vulnerability
